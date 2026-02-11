@@ -198,7 +198,7 @@ vim编辑：
 
 提交（告诉git删除文件）：`git commit -m "delete file2.txt"`
 
-![使用git rm删除文件总结](image/使用git rm删除文件总结.png)
+![使用git rm删除文件总结](image/使用git_rm删除文件总结.png)
 
 ---
 
