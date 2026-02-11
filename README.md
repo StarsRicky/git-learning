@@ -2,7 +2,7 @@
 
 
 
-Git学习笔记的教程来自B站up主：[GeekHour](https://space.bilibili.com/102438649?spm_id_from=333.788.upinfo.detail.click)    [教程链接](https://www.bilibili.com/video/BV1HM411377j/?spm_id_from=333.1387.homepage.video_card.click&vd_source=d228fd77decbd00d6d1e42fb94a889e4)
+**Git学习笔记.md**的教程来自B站up主：[GeekHour](https://space.bilibili.com/102438649?spm_id_from=333.788.upinfo.detail.click)    [教程链接](https://www.bilibili.com/video/BV1HM411377j/?spm_id_from=333.1387.homepage.video_card.click&vd_source=d228fd77decbd00d6d1e42fb94a889e4)
 
 
 
