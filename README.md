@@ -1,1 +1,3 @@
 记录一下学习Git的过程。
+
+GitLab基础使用.md文件来自[a171232886/Note: 除Python、CMake、读书笔记外的各种笔记](https://github.com/a171232886/Note)
