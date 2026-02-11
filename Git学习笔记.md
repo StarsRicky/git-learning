@@ -108,7 +108,7 @@
 
 查看提交记录：`git log`（详细信息）/`git log --oneline`（简洁信息）
 
-![添加和提交文件总结](image/5.添加和提交文件总结.png)
+![添加和提交文件总结](image/添加和提交文件总结.png)
 
 ---
 
@@ -168,7 +168,7 @@ vim编辑：
 
 查看不同版本文件的差异：`git diff HEAD~3 HEAD file.txt`
 
-![使用git diff查看差异](image/使用git diff查看差异.png)
+![使用git diff查看差异](image/使用git_diff查看差异.png)
 
 ---
 
@@ -514,7 +514,7 @@ gitlab本地部署
 
 ​			    `git switch dev`（推荐）
 
-![checkout 命令功能](image/checkout 命令功能.png)
+![checkout 命令功能](image/checkout_命令功能.png)
 
 ​	在dev分支下创建文件：
 
@@ -678,7 +678,7 @@ gitflow模型将分支分成五种类型：主线/基线分支(main)，线上版
 
 **github flow模型**
 
-![github flow模型](image/github flow模型.png)
+![github flow模型](image/github_flow模型.png)
 
 ---
 
