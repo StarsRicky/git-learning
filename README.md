@@ -6,4 +6,5 @@
 
 
 
-**GitLab基础使用.md**文件以及**images**文件夹下的**GitLab基础使用**文件夹内的图片来自[a171232886/Note: 除Python、CMake、读书笔记外的各种笔记](https://github.com/a171232886/Note)
+**GitLab基础使用.md**文件以及**images**文件夹下的**GitLab基础使用**文件夹内的图片来自B站up主：[a171232886]([a171232886的个人空间-a171232886个人主页-哔哩哔哩视频](https://space.bilibili.com/328945654?spm_id_from=333.788.upinfo.detail.click))   [gitlab教程链接](https://www.bilibili.com/video/BV16m3fzyEUZ/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=d228fd77decbd00d6d1e42fb94a889e4)  [up主仓库地址](https://github.com/a171232886/Note)
+
