@@ -66,7 +66,7 @@
 
 本地仓库：.git/objects
 
-![git工作区域](image\git工作区域.png)
+![git工作区域](image/git工作区域.png)
 
 ---
 
