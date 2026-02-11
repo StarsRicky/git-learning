@@ -80,7 +80,7 @@
 
 已暂存：Staged
 
-![文件状态及关系](image\文件状态及关系.png) 
+![文件状态及关系](image/文件状态及关系.png) 
 
 ---
 
@@ -108,7 +108,7 @@
 
 查看提交记录：`git log`（详细信息）/`git log --oneline`（简洁信息）
 
-![添加和提交文件总结](image\5.添加和提交文件总结.png)
+![添加和提交文件总结](image/5.添加和提交文件总结.png)
 
 ---
 
@@ -122,7 +122,7 @@ git reset三种模式
 
 `git reset-mixed <版本号>`
 
-![git reset三种模式](image\git reset的三种模式.png)
+![git reset三种模式](image/git reset的三种模式.png)
 
 复制文件命令：`cp -rf repo repo-soft`
 
@@ -168,7 +168,7 @@ vim编辑：
 
 查看不同版本文件的差异：`git diff HEAD~3 HEAD file.txt`
 
-![使用git diff查看差异](image\使用git diff查看差异.png)
+![使用git diff查看差异](image/使用git diff查看差异.png)
 
 ---
 
@@ -198,7 +198,7 @@ vim编辑：
 
 提交（告诉git删除文件）：`git commit -m "delete file2.txt"`
 
-![使用git rm删除文件总结](image\使用git rm删除文件总结.png)
+![使用git rm删除文件总结](image/使用git rm删除文件总结.png)
 
 ---
 
@@ -206,7 +206,7 @@ vim编辑：
 
 一、应该忽略那些文件
 
-![应该忽略的文件](image\应该忽略的文件.png)
+![应该忽略的文件](image/应该忽略的文件.png)
 
 ---
 
@@ -294,17 +294,17 @@ gitignore忽略文件：`echo access.log > .gitignore`
 
 三、.gitignore文件的匹配规则
 
-![gitignore文件的匹配规则2](image\gitignore文件的匹配规则2.png)
+![gitignore文件的匹配规则2](image/gitignore文件的匹配规则2.png)
 
-![.gitignore文件的匹配规则1](image\gitignore文件的匹配规则1.png)
+![.gitignore文件的匹配规则1](image/gitignore文件的匹配规则1.png)
 
-![.gitignore文件的匹配规则2](image\gitignore文件的匹配规则2.png)
+![.gitignore文件的匹配规则2](image/gitignore文件的匹配规则2.png)
 
 ---
 
 四、.gitignore文件示例
 
-![.gitignore文件示例](image\gitignore文件例子.png)
+![.gitignore文件示例](image/gitignore文件例子.png)
 
 ---
 
@@ -404,9 +404,9 @@ IdentityFile ~/.ssh/test
 
 输入密码即可推送到远程仓库上
 
-![远程仓库的拉取推送](image\远程仓库的拉取推送.png)
+![远程仓库的拉取推送](image/远程仓库的拉取推送.png)
 
-![SSH配置和克隆远程仓库总结](image\SSH配置和克隆远程仓库总结.png)
+![SSH配置和克隆远程仓库总结](image/SSH配置和克隆远程仓库总结.png)
 
 ---
 
@@ -428,9 +428,9 @@ git中进入本地仓库my-repo
 
 ---
 
-![从远程仓库拉取示意图](image\从远程仓库拉取示意图.png)
+![从远程仓库拉取示意图](image/从远程仓库拉取示意图.png)
 
-![从远程仓库拉取命令](image\从远程仓库拉取命令.png)
+![从远程仓库拉取命令](image/从远程仓库拉取命令.png)
 
 在远程仓库或者他人修改仓库后需要在本地拉取命令：
 
@@ -442,7 +442,7 @@ git中进入本地仓库my-repo
 
 **先pull再push**
 
-![关联本地仓库和远程仓库总结](image\关联本地仓库和远程仓库总结.png)
+![关联本地仓库和远程仓库总结](image/关联本地仓库和远程仓库总结.png)
 
 ---
 
@@ -466,7 +466,7 @@ gitlab本地部署
 
 ## 15.在VSCode中使用Git
 
-![总结](image\在VSCode中使用Git总结.png)
+![总结](image/在VSCode中使用Git总结.png)
 
 
 
@@ -482,7 +482,7 @@ gitlab本地部署
 
 ​	使用分支名加序号来命名文件
 
-![分支名加序号来命名文件示意图](image\分支名加序号来命名文件示意图.png)
+![分支名加序号来命名文件示意图](image/分支名加序号来命名文件示意图.png)
 
 二、创建文件
 
@@ -514,7 +514,7 @@ gitlab本地部署
 
 ​			    `git switch dev`（推荐）
 
-![checkout 命令功能](image\checkout 命令功能.png)
+![checkout 命令功能](image/checkout 命令功能.png)
 
 ​	在dev分支下创建文件：
 
@@ -556,7 +556,7 @@ gitlab本地部署
 
 ​	删除分支：`git branch -D dev`	(" -D "强制删除分支)
 
-![分支简介和基本操作总结](image\分支简介和基本操作总结.png)
+![分支简介和基本操作总结](image/分支简介和基本操作总结.png)
 
 
 
@@ -606,13 +606,13 @@ gitlab本地部署
 
 ​	可以使用命令进行终止合并：`git merge --abort`
 
-![解决合并冲突总结](image\解决合并冲突总结.png)
+![解决合并冲突总结](image/解决合并冲突总结.png)
 
 
 
 ## 18. 回退和rebase
 
-![两种rebase示意图](image\两种rebase示意图.png)
+![两种rebase示意图](image/两种rebase示意图.png)
 
 删除上节课创建的feat分支：`git branch -d feat`
 
@@ -664,25 +664,25 @@ Rebase和Merge的区别
 
 **gitflow模型：**
 
-![gitflow模型1](image\gitflow模型1.png)
+![gitflow模型1](image/gitflow模型1.png)
 
-![gitflow模型2](image\gitflow模型2.png.png)
+![gitflow模型2](image/gitflow模型2.png.png)
 
 gitflow模型将分支分成五种类型：主线/基线分支(main)，线上版本bug热修复分支(hotfix)，版本发布（Release）分支(release)，开发分支(develop)，功能分支（feature-longin-page，feature）
 
 **版本号规则**
 
-![版本号规则](image\版本号规则.png)
+![版本号规则](image/版本号规则.png)
 
 ---
 
 **github flow模型**
 
-![github flow模型](image\github flow模型.png)
+![github flow模型](image/github flow模型.png)
 
 ---
 
 分支命名和管理规则
 
-![分支命名和管理规则](image\分支命名和管理规则.png)
+![分支命名和管理规则](image/分支命名和管理规则.png)
 
